@@ -1,0 +1,22 @@
+{
+  "name": "backbone-require boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Reptoh <reptoh@gmail.com>"
+  ],
+  "license": "proprietary",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery": "~1.9",
+    "backbone": "~1.1.2",
+    "requirejs": "~2.1.5",
+    "requirejs-text": "~2.0.5"
+  }
+}
